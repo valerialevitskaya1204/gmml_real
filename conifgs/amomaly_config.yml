@@ -1,0 +1,4 @@
+TASK_NAME:
+  - "Credit Fraud"
+DATA_PATH:
+  - "/Users/eneminova/Desktop/gmml_real/datasets/anomalies/creditcard.csv"
